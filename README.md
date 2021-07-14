@@ -1,0 +1,2 @@
+# Car-Fleet-Management
+-project realized with a colleague with the aim to administrate the car fleet of a company having all the data (drivers and admin accounts, cars and car trips) retained in a database (MySQL).Two types of users were allowed to login the text interface: admin and driver. The admin was able to modify(add, delete, update) accounts and car info. The driver could insert a car trip, a car refuel or a specified traffic incident.
